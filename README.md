@@ -1,6 +1,9 @@
 # News-AI
 An app that uses Sentiment Analysis ( Create ML ) to seperate good and bad news. Made in SwiftUI. Also contains Dummy In-App Purchases, Search Functionality for specific topics.
 
+# Note & How to run on your device
+It was trained on a really small data set from Kaggle so it might be inaccurate sometimes. You have to train your own ML Model in CreateML and add it to your XCode Project if you wish to clone and run it on your own device.
+
 # Main View containing a mix of all news good and bad.
 ![Simulator Screenshot - iPhone 14 Pro - 2023-07-19 at 11 05 02](https://github.com/tech-hardik/News-AI/assets/138746923/68a58bd0-8282-4320-9b6f-5f794debf1c4)
 
